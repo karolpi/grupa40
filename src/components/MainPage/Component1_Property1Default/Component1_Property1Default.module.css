@@ -1,0 +1,116 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 420px;
+  height: 514px;
+  align-items: flex-start;
+}
+.frame7 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 420px;
+  height: 359px;
+  background-color: #d9d9d9;
+}
+.frame8 {
+  position: absolute;
+  left: 125px;
+  top: 414px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.xXXXXXXXXXXXX {
+  color: #000;
+  font-size: 20px;
+  line-height: 153.0227%;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.xXXXXXXXXXXXX2 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.photo {
+  position: absolute;
+  left: 174px;
+  top: 180px;
+  width: 70px;
+  height: 70px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.frame9 {
+  position: absolute;
+  left: 0;
+  right: 69.0476%;
+  top: 0;
+  bottom: 74.3191%;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 40px;
+  background-color: #fff;
+}
+._24 {
+  color: #000;
+  font-size: 40px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lip {
+  color: #000;
+  font-size: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
